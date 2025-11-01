@@ -1,9 +1,20 @@
 {
   "name": "vite_react_shadcn_ts",
+  "version": "0.1.0",
   "private": true,
-  "version": "0.0.0",
+  "description": "teacher toocher aala kam hay ji",
   "homepage": "https://tailcal.github.io/teach-bloom-folio/",
+  "bugs": {
+    "url": "https://github.com/tailcal/teach-bloom-folio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tailcal/teach-bloom-folio.git"
+  },
+  "license": "ISC",
+  "author": "Faaru",
   "type": "module",
+  "main": "eslint.config.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -48,6 +59,7 @@
     "cmdk": "^1.1.1",
     "date-fns": "^3.6.0",
     "embla-carousel-react": "^8.6.0",
+    "gh-pages": "^6.3.0",
     "input-otp": "^1.4.2",
     "lucide-react": "^0.462.0",
     "next-themes": "^0.3.0",
